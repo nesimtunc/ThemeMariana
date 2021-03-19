@@ -10,6 +10,10 @@ MacDown
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/MacDown.png">
 
-Apple Terminal
+Terminal
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Apple Terminal.png">
+
+TODO
+
+Mariana for XCode
