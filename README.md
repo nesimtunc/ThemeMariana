@@ -34,7 +34,7 @@ Terminal
 
 Xcode
 
-copy to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
+copy to `~/Library/Developer/Xcode/UserData`
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Xcode.png">
 
