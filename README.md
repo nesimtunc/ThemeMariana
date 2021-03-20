@@ -20,6 +20,8 @@ defaults delete com.uranusjr.macdown AppleFontSmoothing
 
 Sublime Text 3
 
+copy to `~/Library/Application Support/Sublime Text 3/Packages`
+
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Sublime Text 3.png">
 
 MacDown
