@@ -30,6 +30,10 @@ Terminal
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Apple Terminal.png">
 
-TODO
+Xcode
 
-Mariana for XCode
+copy to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
+
+<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Xcode.png">
+
+TODO
