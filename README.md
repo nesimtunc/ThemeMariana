@@ -8,6 +8,7 @@ Turn off font smoothing
 defaults write com.apple.Terminal AppleFontSmoothing -int 0
 defaults write com.sublimetext.3 AppleFontSmoothing -int 0
 defaults write com.uranusjr.macdown AppleFontSmoothing -int 0
+defaults write com.apple.dt.Xcode AppleFontSmoothing -int 0
 ```
 
 Turn on font smoothing
@@ -16,6 +17,7 @@ Turn on font smoothing
 defaults delete com.apple.Terminal AppleFontSmoothing
 defaults delete com.sublimetext.3 AppleFontSmoothing
 defaults delete com.uranusjr.macdown AppleFontSmoothing
+defaults delete com.apple.dt.Xcode AppleFontSmoothing
 ```
 
 Sublime Text 3
