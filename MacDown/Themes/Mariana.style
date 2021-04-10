@@ -1,29 +1,29 @@
 editor
-foreground: cbd3e2
+foreground: bec8da
 background: 323b43
 caret: f9ae58
 
 editor-selection
-foreground: cbd3e2
+foreground: bec8da
 background: 4e5a65
 
 H1
-foreground: cbd3e2
+foreground: bec8da
 
 H2
-foreground: cbd3e2
+foreground: bec8da
 
 H3
-foreground: cbd3e2
+foreground: bec8da
 
 H4
-foreground: cbd3e2
+foreground: bec8da
 
 H5
-foreground: cbd3e2
+foreground: bec8da
 
 H6
-foreground: cbd3e2
+foreground: bec8da
 
 EMPH
 foreground: c695c6 
@@ -51,7 +51,7 @@ AUTO_LINK_EMAIL
 foreground: 6699cc
 
 REFERENCE
-foreground: cbd3e2
+foreground: bec8da
 
 IMAGE
 foreground: 6699cc
