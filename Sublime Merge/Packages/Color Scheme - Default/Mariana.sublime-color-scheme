@@ -326,12 +326,14 @@
         {
             "name": "markup code",
             "scope": "markup.raw",
-            "background": "color(var(blue2) alpha(0.38))"
+            // "background": "color(var(blue2) alpha(0.38))"
+            "background": "hsla(210, 13%, 29%, 1)"
         },
         {
             "name": "markup code",
             "scope": "markup.raw.inline",
-            "background": "color(var(blue2) alpha(0.5))"
+            // "background": "color(var(blue2) alpha(0.5))"
+            "background": "hsla(209, 13%, 32%, 1)"
         },
         {
             "name": "markup punctuation",
