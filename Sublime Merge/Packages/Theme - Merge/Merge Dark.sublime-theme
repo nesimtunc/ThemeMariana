@@ -1,0 +1,15 @@
+{
+	"extends": "Merge.sublime-theme",
+	"variables":
+	{
+		"black": "hsl(0, 0%, 0%)",
+		"white3": "hsl(210, 11%, 93%)",
+		// Detail panel
+		"detail_panel_bg": "var(white3)",
+		// Hazard buttons
+		"hazard_button_shadow": "color(var(black) a(0))",
+	},
+	"rules":
+	[
+	]
+}
