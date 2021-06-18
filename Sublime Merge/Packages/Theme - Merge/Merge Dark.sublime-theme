@@ -2,14 +2,30 @@
 	"extends": "Merge.sublime-theme",
 	"variables":
 	{
+		// Color
 		"black": "hsl(0, 0%, 0%)",
 		"white3": "hsl(210, 11%, 93%)",
+		// Font face
+		"font_face": "IBM Plex Mono",
 		// Detail panel
 		"detail_panel_bg": "var(white3)",
 		// Hazard buttons
 		"hazard_button_shadow": "color(var(black) a(0))",
+		// Diff headers
+		"hunk_button_fg": "var(white3)",
+		"hunk_button_shadow": "color(black a(0.5))",
+		"hunk_header_bg": "color(var(--background) l(+ 11%))",
+
+		"full_context_icon_bg": "var(medium_gray-light)",
 	},
-	"rules":
+	"rules": 
 	[
+		{
+			"class": "label_control",
+			"parents":[{"class": "hunk_label_container"}],
+			"fg": "#aaa",
+			"font.face": "var(font_face)",
+			"font.size": "var(font_size)"
+		},
 	]
 }
