@@ -375,27 +375,115 @@
             "foreground": "var(red)"
         },
 
+        // {
+        //     "scope": "diff.deleted",
+        //     "background": "hsla(357, 45%, 60%, 0.15)",
+        //     "foreground_adjust": "l(+ 5%)"
+        // },
+        // {
+        //     "scope": "diff.deleted.char",
+        //     // "background": "hsla(357, 60%, 60%, 0.30)",
+        //     "background": "hsla(347, 20%, 35%, 1)",
+        //     "foreground_adjust": "l(+ 10%)"
+        // },
+        // {
+        //     "scope": "diff.inserted",
+        //     "background": "hsla(180, 45%, 60%, 0.15)",
+        //     "foreground_adjust": "l(+ 5%)"
+        // },
+        // {
+        //     "scope": "diff.inserted.char",
+        //     // "background": "hsla(180, 60%, 60%, 0.30)",
+        //     "background": "hsla(186, 28%, 34%, 1)",
+        //     "foreground_adjust": "l(+ 10%)"
+        // },
         {
             "scope": "diff.deleted",
-            "background": "hsla(357, 45%, 60%, 0.15)",
+            "background": "hsla(357, 25%, 60%, 0.15)",
             "foreground_adjust": "l(+ 5%)"
         },
         {
+            "scope": "diff.deleted.side-by-side",
+            "background": "hsla(357, 40%, 60%, 0.30)",
+            "foreground_adjust": "l(+ 10%)"
+        },
+        {
+            "scope": "diff.deleted.inline",
+            "background": "hsla(357, 40%, 60%, 0.30)",
+            "foreground_adjust": "l(+ 10%)"
+        },
+        {
             "scope": "diff.deleted.char",
-            // "background": "hsla(357, 60%, 60%, 0.30)",
-            "background": "hsla(347, 20%, 35%, 1)",
+            "background": "hsla(357, 40%, 60%, 0.30)",
             "foreground_adjust": "l(+ 10%)"
         },
         {
             "scope": "diff.inserted",
-            "background": "hsla(180, 45%, 60%, 0.15)",
+            "background": "hsla(180, 25%, 60%, 0.15)",
             "foreground_adjust": "l(+ 5%)"
         },
         {
-            "scope": "diff.inserted.char",
-            // "background": "hsla(180, 60%, 60%, 0.30)",
-            "background": "hsla(186, 28%, 34%, 1)",
+            "scope": "diff.inserted.side-by-side",
+            "background": "hsla(180, 40%, 60%, 0.30)",
             "foreground_adjust": "l(+ 10%)"
+        },
+        {
+            "scope": "diff.inserted.inline",
+            "background": "hsla(180, 40%, 60%, 0.30)",
+            "foreground_adjust": "l(+ 10%)"
+        },
+        {
+            "scope": "diff.inserted.char",
+            "background": "hsla(180, 40%, 60%, 0.30)",
+            "foreground_adjust": "l(+ 10%)"
+        },
+        {
+            "scope": "diff.fill",
+            "background": "hsl(210, 15%, 27%)",
+        },
+        {
+            "scope": "diff.inserted.merge-left",
+            "background": "hsla(180, 25%, 60%, 0.15)",
+            "foreground_adjust": "l(+ 5%)"
+        },
+        {
+            "scope": "diff.inserted.char.merge-left",
+            "background": "hsla(180, 40%, 60%, 0.30)",
+            "foreground_adjust": "l(+ 10%)"
+        },
+        {
+            "scope": "diff.border.merge-left",
+            "background": "hsla(180, 40%, 60%, 0.50)",
+        },
+        {
+            "scope": "diff.inserted.merge-right",
+            "background": "hsla(60, 25%, 40%, 0.15)",
+            "foreground_adjust": "l(+ 5%)"
+        },
+        {
+            "scope": "diff.inserted.char.merge-right",
+            "background": "hsla(60, 40%, 60%, 0.30)",
+            "foreground_adjust": "l(+ 10%)"
+        },
+        {
+            "scope": "diff.border.merge-right",
+            "background": "hsla(60, 60%, 60%, 0.50)",
+        },
+        {
+            "scope": "diff.border.merge-conflict",
+            "background": "hsla(357, 75%, 65%, 0.50)",
+        },
+        {
+            "scope": "diff.border.merge-merged",
+            "background": "hsla(180, 10%, 70%, 0.30)",
+        },
+        {
+            "scope": "blame.border",
+            "background": "hsl(210, 13%, 30%)",
+        },
+        {
+            "scope": "blame.age-icon",
+            "foreground": "white",
         },
     ]
 }
