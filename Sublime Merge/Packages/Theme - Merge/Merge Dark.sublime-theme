@@ -17,15 +17,66 @@
 		"hunk_header_bg": "color(var(--background) l(+ 11%))",
 
 		"full_context_icon_bg": "var(medium_gray-light)",
+		
+		// Buttons
+		"button_shadow_2": "color(black a(0))",
+		"toggle_button_2_bg": "#3B4248", // This matches the header hover buttons
+		"toggle_button_2_fg": "#aaa",
+		"toggle_button_2_fg_selected": "#ddd",
+		"toggle_button_2_bg-details": "#586067", // This matches the buttons in the details panel
 	},
 	"rules": 
 	[
 		{
 			"class": "label_control",
-			"parents":[{"class": "hunk_label_container"}],
+			"parents":[{"class": "file_diff_hunk_header"}],
 			"fg": "#aaa",
 			"font.face": "var(font_face)",
 			"font.size": "var(font_size)"
+		},
+		{
+			"class": "label_control",
+			"parents":
+			[
+				{"class": "file_diff_hunk_container"},
+				{"class": "hunk_button", "attributes": ["!confirm"]}
+			],
+			"fg": "color(var(hunk_button_fg) a(0))",
+			"shadow_offset": [0, 0]
+		},
+		{
+			"class": "label_control",
+			"parents":
+			[
+				{"class": "file_diff_hunk_container", "attributes": ["hover"]},
+				{"class": "hunk_button", "attributes": ["!confirm"]}
+			],
+			"fg": "var(hunk_button_fg)",
+			"shadow_color": "var(hunk_button_shadow)",
+			"shadow_offset": [0, 1]
+		},
+		{
+			"class": "label_control",
+			"parents":
+			[
+				{"class": "file_diff_hunk_header", "attributes": ["selected"]},
+				{"class": "hunk_button", "attributes": ["!confirm"]}
+			],
+			"fg": "var(hunk_button_fg)",
+			"shadow_color": "var(hunk_button_shadow)",
+			"shadow_offset": [0, 1]
+		},
+		{
+			"class": "label_control",
+			"parents": [{"class": "toggle_button"}],
+			"fg": "var(toggle_button_2_fg)",
+			"shadow_color": "var(button_shadow_2)",
+			"shadow_offset": [0, 1],
+		},
+		{
+			"class": "label_control",
+			"parents": [{"class": "toggle_button", "attributes": ["selected"]}],
+			"fg": "var(toggle_button_2_fg_selected)",
 		},
 	]
 }
