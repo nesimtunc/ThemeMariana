@@ -66,14 +66,20 @@
 		},
 		{
 			"class": "label_control",
-			"parents": [{"class": "toggle_button"}],
+			"parents": [
+				{"class": "file_diff_hunk_header"},
+				{"class": "toggle_button"}
+			],
 			"fg": "var(toggle_button_fg2)",
 			"shadow_color": "var(button_shadow2)",
 			"shadow_offset": [0, 1],
 		},
 		{
 			"class": "label_control",
-			"parents": [{"class": "toggle_button", "attributes": ["selected"]}],
+			"parents": [
+				{"class": "file_diff_hunk_header"},
+				{"class": "toggle_button", "attributes": ["selected"]}
+			],
 			"fg": "var(toggle_button_fg_selected2)",
 		},
 	]
