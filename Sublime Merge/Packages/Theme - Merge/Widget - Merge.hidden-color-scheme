@@ -2,7 +2,7 @@
 	"name": "Sublime Widgets",
 	"variables":
 	{
-		"white": "#ffffff",
+		"white": "#fcfdfd",
 		"dark_grey": "#222222",
 		"medium_grey": "#888888",
 		"orange": "hsl(32, 95%, 50%)",

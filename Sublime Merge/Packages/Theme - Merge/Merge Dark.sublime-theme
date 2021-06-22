@@ -82,5 +82,12 @@
 			],
 			"fg": "var(toggle_button_fg_selected2)",
 		},
+
+		{
+			"class": "git_output_data_container",
+			"layer0.tint": "#fcfdfd",
+			"layer0.opacity": 1.0,
+			"content_margin": [6, 6, 4, 6],
+		},
 	]
 }
