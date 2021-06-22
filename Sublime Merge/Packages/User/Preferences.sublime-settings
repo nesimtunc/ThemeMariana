@@ -14,4 +14,5 @@
 	"theme": "Merge Dark.sublime-theme",
 	"caret_style": "solid",
 	"update_check": false,
+	"time_format": "system",
 }
