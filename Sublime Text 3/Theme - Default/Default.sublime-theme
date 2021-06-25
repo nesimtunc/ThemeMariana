@@ -2336,5 +2336,15 @@
             "border_color": "color(var(status_bar_label_color) a(0.5))",
             "content_margin": [3, 0]
         },
+
+        // Panels
+        {
+            "class": "console_panel",
+            "content_margin": [-4, 0]
+        },
+        {
+            "class": "output_panel",
+            "content_margin": [0, 0]
+        },
     ]
 }
