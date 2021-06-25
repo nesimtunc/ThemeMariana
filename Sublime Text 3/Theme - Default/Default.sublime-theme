@@ -2340,11 +2340,11 @@
         // Panels
         {
             "class": "console_panel",
-            "content_margin": [-4, 0]
+            "content_margin": [-4, 2, -4, -4]
         },
         {
             "class": "output_panel",
-            "content_margin": [0, 0]
+            "content_margin": [0, 2, 0, -4]
         },
     ]
 }
