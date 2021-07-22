@@ -34,6 +34,12 @@ copy to `~/Library/Application Support/Sublime Merge`
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Sublime Merge.png">
 
+Docsify
+
+edit index.html `<link rel="stylesheet" href="mariana.css">`
+
+<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Docsify.png">
+
 MacDown
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/MacDown.png">

@@ -311,7 +311,7 @@
         {
             "name": "markup code",
             "scope": "markup.raw",
-            "background": "color(var(blue2) alpha(0.38))"
+            "background": "color(var(blue2) alpha(0.25))"
         },
         {
             "name": "markup code",
