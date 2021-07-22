@@ -621,6 +621,12 @@ body {
   color: var(--theme-color, #42b983);
   font-weight: normal;
 }
+.sidebar .search h2 {
+  font-size: 1.2rem;
+}
+.sidebar .search p {
+  font-size: 1.2rem;
+}
 .app-sub-sidebar li::before {
   content: '-';
   padding-right: 4px;
