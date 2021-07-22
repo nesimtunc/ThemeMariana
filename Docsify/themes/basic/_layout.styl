@@ -6,7 +6,9 @@
   -webkit-touch-callout none
   box-sizing border-box
   font-family 'IBM Plex Mono' !important
-  font-size 12px !important
+
+html
+  font-size 62.5%
 
 body:not(.ready)
   overflow hidden
@@ -15,7 +17,7 @@ body:not(.ready)
     display none
 
 div#app
-  font-size 30px
+  font-size 1.6rem
   font-weight lighter
   margin 40vh auto
   text-align center
@@ -44,7 +46,7 @@ div#app
 .search .search-keyword
   color var(--theme-color, $color-primary)
   font-style normal
-  font-weight bold
+  font-weight normal
 
 html, body
   height 100%
@@ -54,7 +56,7 @@ body
   -webkit-font-smoothing antialiased
   color $color-text
   font-family 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif
-  font-size 15px
+  font-size 1.2rem
   letter-spacing 0
   margin 0
   overflow-x hidden
@@ -70,7 +72,7 @@ kbd
   border solid 1px #ccc
   border-radius 3px
   display inline-block
-  font-size 12px !important
+  font-size 1.2rem
   line-height 12px
   margin-bottom 3px
   padding 3px 5px
@@ -105,7 +107,7 @@ li input[type='checkbox']
 
   a
     color inherit
-    font-size 16px
+    font-size 1.3rem
     text-decoration none
     transition color 0.3s
 
@@ -142,7 +144,7 @@ li input[type='checkbox']
 
       li
         display block
-        font-size 14px
+        font-size 1.2rem
         line-height 1rem
         margin 0
         margin 8px 14px
@@ -216,7 +218,7 @@ main.hidden
   > h1
     margin 0 auto 1rem
     font-size 1.5rem
-    font-weight 300
+    font-weight normal
     text-align center
 
     a
@@ -240,7 +242,7 @@ main.hidden
     padding 0
 
   li > p
-    font-weight 700
+    font-weight normal
     margin 0
 
   ul, ul li
@@ -342,7 +344,7 @@ body.sticky
   width max-content
 
 .markdown-section th
-  font-weight bold
+  font-weight normal
   padding 6px 13px
 
 .markdown-section td
