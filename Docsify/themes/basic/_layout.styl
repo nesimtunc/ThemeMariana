@@ -282,7 +282,7 @@ main.hidden
   cursor pointer
 
   &:hover .sidebar-toggle-button
-    opacity 0.4
+    opacity 1.0
 
   span
     background-color var(--theme-color, $color-primary)
@@ -337,7 +337,9 @@ body.sticky
   display block
   margin-bottom 1rem
   overflow auto
-  width 100%
+  max-width 100%
+  width -webkit-max-content
+  width max-content
 
 .markdown-section th
   font-weight bold
@@ -399,7 +401,7 @@ body.close
     top 30px
 
   main
-    height auto
+    height 100%
     overflow-x hidden
 
   .sidebar
@@ -426,7 +428,6 @@ body.close
       transform translateX($sidebar-width)
 
     .sidebar-toggle
-      background-color rgba($color-bg, 0.8)
       transition 1s background-color
       width $sidebar-width - 16px
       padding 10px

@@ -282,7 +282,7 @@ main.hidden {
   cursor: pointer;
 }
 .sidebar-toggle:hover .sidebar-toggle-button {
-  opacity: 0.4;
+  opacity: 1;
 }
 .sidebar-toggle span {
   background-color: var(--theme-color, #99c794);
@@ -335,7 +335,9 @@ body.sticky .sidebar-toggle {
   display: block;
   margin-bottom: 1rem;
   overflow: auto;
-  width: 100%;
+  max-width: 100%;
+  width: -webkit-max-content;
+  width: max-content;
 }
 .markdown-section th {
   font-weight: bold;
@@ -400,7 +402,7 @@ body.close .content {
     top: 30px;
   }
   main {
-    height: auto;
+    height: 100%;
     overflow-x: hidden;
   }
   .sidebar {
@@ -427,7 +429,6 @@ body.close .content {
     transform: translateX(300px);
   }
   body.close .sidebar-toggle {
-    background-color: rgba(50,59,67,0.8);
     transition: 1s background-color;
     width: 284px;
     padding: 10px;
