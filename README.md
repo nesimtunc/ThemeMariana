@@ -36,7 +36,7 @@ copy to `~/Library/Application Support/Sublime Merge`
 
 Docsify
 
-edit index.html `<link rel="stylesheet" href="mariana.css">`
+add `<link rel="stylesheet" href="mariana.css">` to index.html
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Docsify.png">
 
