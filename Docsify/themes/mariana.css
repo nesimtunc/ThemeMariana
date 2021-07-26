@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,400,600");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono|IBM+Plex+Sans:300,400,600");
 * {
   -webkit-font-smoothing: antialiased !important;
   -webkit-overflow-scrolling: touch;
@@ -6,7 +6,6 @@
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;
-  font-family: 'IBM Plex Mono' !important;
 }
 html {
   font-size: 62.5%;
@@ -59,7 +58,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: #bac5d8;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
   font-size: 1.2rem;
   letter-spacing: 0;
   margin: 0;
@@ -592,6 +591,7 @@ section.cover blockquote > p > a:hover {
 }
 body {
   background-color: #323b43;
+  font-size: 1.3rem;
 }
 /* sidebar */
 .sidebar {
@@ -603,7 +603,7 @@ body {
 }
 .sidebar ul li a {
   color: #505d6b;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: normal;
   overflow: hidden;
   text-decoration: none;
@@ -622,10 +622,10 @@ body {
   font-weight: normal;
 }
 .sidebar .search h2 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .sidebar .search p {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .app-sub-sidebar li::before {
   content: '-';
@@ -658,14 +658,14 @@ body {
   margin: 40px 0 0.6rem;
 }
 .markdown-section h4 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .markdown-section h5 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .markdown-section h6 {
   color: #777;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .markdown-section figure,
 .markdown-section p {
@@ -700,7 +700,7 @@ body {
 .markdown-section code,
 .markdown-section pre,
 .markdown-section output::after {
-  font-family: 'Roboto Mono', Monaco, courier, monospace;
+  font-family: 'IBM Plex Mono', Monaco, courier, monospace;
 }
 .markdown-section code,
 .markdown-section pre {
