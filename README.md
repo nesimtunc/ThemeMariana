@@ -30,6 +30,8 @@ copy to `~/Library/Application Support/Sublime Text/Packages`
 
 Sublime Merge
 
+Based on Theme Dark
+
 copy to `~/Library/Application Support/Sublime Merge`
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Sublime Merge.png">
