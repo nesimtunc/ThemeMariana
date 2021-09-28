@@ -1,6 +1,8 @@
 # Theme-Mariana
 
-Font [IBM Plex Mono](https://github.com/IBM/plex)
+Fonts  
+[IBM Plex Mono](https://github.com/IBM/plex)  
+[Open Sans](https://www.opensans.com)  
 
 Turn off font smoothing
 
@@ -44,7 +46,7 @@ add `<link rel="stylesheet" href="mariana.css">` to index.html
 
 Devdocs
 
-[opensource](https://github.com/chunqian/docshub)
+[Open Source](https://github.com/chunqian/docshub)
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Devdocs.png">
 
