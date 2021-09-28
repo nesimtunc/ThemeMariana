@@ -15,4 +15,5 @@
 	"caret_style": "solid",
 	"update_check": false,
 	"time_format": "system",
+	"hardware_acceleration": "none",
 }

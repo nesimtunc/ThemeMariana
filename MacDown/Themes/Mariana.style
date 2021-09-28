@@ -1,29 +1,29 @@
 editor
-foreground: a2acbe
+foreground: 99a4b8
 background: 323b43
 caret: f9ae58
 
 editor-selection
-foreground: a2acbe
+foreground: 99a4b8
 background: 4e5a65
 
 H1
-foreground: a2acbe
+foreground: 99a4b8
 
 H2
-foreground: a2acbe
+foreground: 99a4b8
 
 H3
-foreground: a2acbe
+foreground: 99a4b8
 
 H4
-foreground: a2acbe
+foreground: 99a4b8
 
 H5
-foreground: a2acbe
+foreground: 99a4b8
 
 H6
-foreground: a2acbe
+foreground: 99a4b8
 
 EMPH
 foreground: c695c6 
@@ -51,7 +51,7 @@ AUTO_LINK_EMAIL
 foreground: 6699cc
 
 REFERENCE
-foreground: a2acbe
+foreground: 99a4b8
 
 IMAGE
 foreground: 6699cc
@@ -66,7 +66,7 @@ HTML_ENTITY
 foreground: 5fb4b4
 
 COMMENT
-foreground: 8a92a3
+foreground: 818a9c
 
 BLOCKQUOTE
 foreground: f9ae58
