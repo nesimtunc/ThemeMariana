@@ -26,11 +26,11 @@ H6
 foreground: 99a4b8
 
 EMPH
-foreground: c695c6 
+foreground: c18bc1 
 font-style: italic
 
 STRONG
-foreground: c695c6
+foreground: c18bc1
 
 HRULE
 foreground: ec5f66
