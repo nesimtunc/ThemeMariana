@@ -12,6 +12,7 @@ defaults write com.sublimetext.4 AppleFontSmoothing -int 0
 defaults write com.sublimemerge AppleFontSmoothing -int 0
 defaults write com.uranusjr.macdown AppleFontSmoothing -int 0
 defaults write com.apple.dt.Xcode AppleFontSmoothing -int 0
+defaults write com.krill.CodeRunner AppleFontSmoothing -int 0
 ```
 
 Turn on font smoothing
@@ -22,6 +23,7 @@ defaults delete com.sublimetext.4 AppleFontSmoothing
 defaults delete com.sublimemerge AppleFontSmoothing
 defaults delete com.uranusjr.macdown AppleFontSmoothing
 defaults delete com.apple.dt.Xcode AppleFontSmoothing
+defaults delete com.krill.CodeRunner AppleFontSmoothing
 ```
 
 Sublime Text 4
@@ -63,5 +65,11 @@ Xcode
 copy to `~/Library/Developer/Xcode/UserData`
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Xcode.png">
+
+CodeRunner
+
+support version 4.1 or newer
+
+<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/CodeRunner.png">
 
 TODO
