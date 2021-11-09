@@ -14,7 +14,7 @@
 				<key>activeGuide</key>
 				<string>#5fb3b3</string>
 				<key>background</key>
-				<string>#252C33</string>
+				<string>#252B32</string>
 				<key>bracketContentsForeground</key>
 				<string>#5fb3b3</string>
 				<key>bracketContentsOptions</key>
@@ -74,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7DB775</string>
+				<string>#7CB675</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,7 +109,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E74550</string>
+				<string>#E7444E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -219,7 +219,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E74550</string>
+				<string>#5284C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -232,7 +232,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#B372B5</string>
+				<string>#5284C2</string>
 			</dict>
 		</dict>
 		<dict>
