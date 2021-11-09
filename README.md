@@ -68,7 +68,7 @@ copy to `~/Library/Developer/Xcode/UserData`
 
 CodeRunner
 
-support version 4.1 or newer
+support 4.1 or newer
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/CodeRunner.png">
 
