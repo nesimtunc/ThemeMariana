@@ -46,12 +46,6 @@ add `<link rel="stylesheet" href="mariana.css">` to index.html
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Docsify.png">
 
-Devdocs
-
-[Open Source](https://github.com/chunqian/docshub)
-
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Devdocs.png">
-
 MacDown
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/MacDown.png">
