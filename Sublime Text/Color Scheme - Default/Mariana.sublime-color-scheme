@@ -348,11 +348,11 @@
             "scope": "markup.changed",
             "foreground": "var(orange)"
         },
-        {
-            "name": "CSS Properties",
-            "scope": "support.type.property-name",
-            "foreground": "var(white3)"
-        },
+        // {
+        //     "name": "CSS Properties",
+        //     "scope": "support.type.property-name",
+        //     "foreground": "var(white3)"
+        // },
         {
             "scope": "constant.numeric.line-number.match",
             "foreground": "var(red)"
