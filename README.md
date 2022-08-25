@@ -10,7 +10,6 @@ Turn off font smoothing
 defaults write com.apple.Terminal AppleFontSmoothing -int 0
 defaults write com.sublimetext.4 AppleFontSmoothing -int 0
 defaults write com.sublimemerge AppleFontSmoothing -int 0
-defaults write com.uranusjr.macdown AppleFontSmoothing -int 0
 defaults write com.apple.dt.Xcode AppleFontSmoothing -int 0
 defaults write com.krill.CodeRunner AppleFontSmoothing -int 0
 ```
@@ -21,7 +20,6 @@ Turn on font smoothing
 defaults delete com.apple.Terminal AppleFontSmoothing
 defaults delete com.sublimetext.4 AppleFontSmoothing
 defaults delete com.sublimemerge AppleFontSmoothing
-defaults delete com.uranusjr.macdown AppleFontSmoothing
 defaults delete com.apple.dt.Xcode AppleFontSmoothing
 defaults delete com.krill.CodeRunner AppleFontSmoothing
 ```
@@ -45,10 +43,6 @@ Docsify
 add `<link rel="stylesheet" href="mariana.css">` to index.html
 
 <img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Docsify.png">
-
-MacDown
-
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/MacDown.png">
 
 Terminal
 
