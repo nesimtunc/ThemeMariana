@@ -28,7 +28,7 @@ Sublime Text 4
 
 copy to `~/Library/Application Support/Sublime Text/Packages`
 
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Sublime Text.png">
+<img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/Snapshot/sublime text.png">
 
 Sublime Merge
 
@@ -36,28 +36,28 @@ Based on Theme Dark
 
 copy to `~/Library/Application Support/Sublime Merge`
 
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Sublime Merge.png">
+<img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/Snapshot/sublime merge.png">
 
 Docsify
 
 add `<link rel="stylesheet" href="mariana.css">` to index.html
 
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Docsify.png">
+<img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/Snapshot/docsify.png">
 
 Terminal
 
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Apple Terminal.png">
+<img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/Snapshot/apple terminal.png">
 
 Xcode
 
 copy to `~/Library/Developer/Xcode/UserData`
 
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/Xcode.png">
+<img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/Snapshot/xcode.png">
 
 CodeRunner
 
 support 4.1 or newer
 
-<img align="center" src="https://github.com/chunqian/Theme-Mariana/blob/main/Snapshot/CodeRunner.png">
+<img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/Snapshot/coderunner.png">
 
 TODO
