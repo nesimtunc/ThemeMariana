@@ -70,7 +70,7 @@
         "brackets_foreground": "var(orange)",
         "bracket_contents_options": "underline",
         "bracket_contents_foreground": "var(blue5)",
-        "tags_options": "stippled_underline",
+        "tags_options": "underline",
         "tags_foreground": "var(pink)"
     },
     "rules":
