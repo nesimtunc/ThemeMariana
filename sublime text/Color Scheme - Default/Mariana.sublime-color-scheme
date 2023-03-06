@@ -51,6 +51,7 @@
         "background": "var(blue3)",
         "accent": "var(blue-vibrant)",
         "caret": "var(orange)",
+        "invisibles": "var(blue6)",
         "line_highlight": "var(blue2)",
         "selection": "var(blue2)",
         "selection_border": "var(blue4)",
@@ -65,10 +66,13 @@
         "find_highlight_foreground": "var(grey)",
         "find_highlight": "var(orange3)",
         "brackets_options": "underline",
+        // "brackets_options": "none",
         "brackets_foreground": "var(orange)",
         "bracket_contents_options": "underline",
+        // "bracket_contents_options": "none",
         "bracket_contents_foreground": "var(blue5)",
         "tags_options": "underline",
+        // "tags_options": "none",
         "tags_foreground": "var(pink)"
     },
     "rules":
