@@ -1,4 +1,4 @@
-# theme-mariana
+# Theme Mariana
 
 Fonts  
 [IBM Plex Mono](https://github.com/IBM/plex)  
