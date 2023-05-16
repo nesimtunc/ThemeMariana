@@ -1,6 +1,6 @@
 # Theme Mariana
 
-## Fonts
+### Fonts
 
 [IBM Plex Mono](https://github.com/IBM/plex)  
 [Open Sans](https://www.opensans.com)  
@@ -25,33 +25,33 @@ defaults delete com.apple.dt.Xcode AppleFontSmoothing
 defaults delete com.krill.CodeRunner AppleFontSmoothing
 ```
 
-## Sublime Text 4
+### Sublime Text 4
 
 copy to `~/Library/Application Support/Sublime Text/Packages`
 
 <img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/snapshot/sublime text.png">
 
-## Sublime Merge
+### Sublime Merge
 
 Based on Theme Dark  
 copy to `~/Library/Application Support/Sublime Merge`
 
 <img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/snapshot/sublime merge.png">
 
-## Terminal
+### Terminal
 
 <img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/snapshot/apple terminal.png">
 
-## Xcode
+### Xcode
 
 copy to `~/Library/Developer/Xcode/UserData`
 
 <img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/snapshot/xcode.png">
 
-## CodeRunner
+### CodeRunner
 
 support 4.1 or newer
 
 <img align="center" src="https://github.com/chunqian/theme-mariana/blob/main/snapshot/coderunner.png">
 
-## TODO
+### TODO
