@@ -3,7 +3,6 @@
 ### Fonts
 
 [IBM Plex Mono](https://github.com/IBM/plex)  
-[Open Sans](https://www.opensans.com)  
 
 Turn off font smoothing
 
